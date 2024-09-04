@@ -128,4 +128,4 @@ Para as variaveis, foi proposto:
     {{tipos de exercicios}} = Maquinário
     {{objetivo}} = Ganho de massa muscular
   </section-variables>
-A Resposta está no arquivo resposta.txt
+A Resposta está no arquivo resposta.txt(https://github.com/jessicameira/prompt-challenger-personal-ia/blob/main/resposta.txt)
