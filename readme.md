@@ -121,3 +121,11 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+Para as variaveis, foi proposto:
+  <section-variables>
+    {{biotipo}} = Ectomorfo
+    {{dias-disponiveis}} = 5 dias por semana
+    {{tipos de exercicios}} = Maquinário
+    {{objetivo}} = Ganho de massa muscular
+  </section-variables>
+A Resposta está no arquivo resposta.txt
